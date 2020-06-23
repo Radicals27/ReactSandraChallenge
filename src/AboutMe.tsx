@@ -4,7 +4,7 @@ export default () => {
     return (
     <section id="about-me">
     <h2>About Me</h2>
-        <img src="https://randomuser.me/api/portraits/women/8.jpg"/>
+        <img src="https://randomuser.me/api/portraits/women/8.jpg" alt="This is me"/>
         <article>
             <ol>
                 <li>
